@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Node.js , React.js , MEARN,**
+- 💬 Ask me about **Node.js , React.js , MERN,**
 
 - 📫 How to reach me **deepakaashyap00019@gmail.com**
 
